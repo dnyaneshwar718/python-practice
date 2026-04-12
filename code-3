@@ -4,3 +4,5 @@ def print_list(cities):
     for items in cities:
         print(items,end=" ")
 print_list(cities)
+#output
+chennai mumbai kolkata hydreabad
