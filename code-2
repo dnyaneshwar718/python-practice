@@ -1,1 +1,6 @@
-
+# write a function to print length of the list 
+cities=["bombay","chennnai","Delhi","Benguluru"]
+def print_list(cities):
+    print(len(cities))
+    return cities
+print(len(cities))
