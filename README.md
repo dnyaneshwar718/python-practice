@@ -1,2 +1,0 @@
-# Python-practice
-print("hello")
